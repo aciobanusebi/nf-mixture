@@ -298,6 +298,7 @@ for _ in (range(epochs)):
 # it_losses.append(losses[-1])
 print(losses[-1].numpy())
 
+plt.figure()
 plt.plot(losses)
 plt.show(block=False)
 plt.pause(0.001)

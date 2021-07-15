@@ -194,7 +194,7 @@ if dim_pca is not None:
   pca = PCA(n_components=dim_pca)
   samples = pca.fit_transform(X)
 
-BATCH_SIZE = 1000 # for fmnist None: ?; for fmnist None: 3500; for mnist None: 4000; the rest: 5000
+BATCH_SIZE = 1000 # for cifar10 None: 1000; for fmnist None: 3500; for mnist None: 4000; the rest: 5000
 SHUFFLE_BUFFER_SIZE = 1024
 D = samples.shape[1]
 

@@ -36,13 +36,17 @@ Circles dataset:
 ![Circles density plot](https://github.com/aciobanusebi/nf-mixture/blob/main/GIFS/circles.gif)
 
 Moons dataset:
+
 ![Moons density plot](https://github.com/aciobanusebi/nf-mixture/blob/main/GIFS/moons.gif)
 
 Pinwheel dataset:
+
 ![Pinwheel density plot](https://github.com/aciobanusebi/nf-mixture/blob/main/GIFS/pinwheel.gif)
 
 Smile dataset:
+
 ![Smile density plot](https://github.com/aciobanusebi/nf-mixture/blob/main/GIFS/smile.gif)
 
 Two bananas dataset:
+
 ![Two bananas density plot](https://github.com/aciobanusebi/nf-mixture/blob/main/GIFS/two_banana.gif)

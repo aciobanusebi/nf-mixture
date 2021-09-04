@@ -1,6 +1,6 @@
 import os
 
-OUTPUT_DIRECTORY = "results"
+OUTPUT_DIRECTORY = "../results"
 
 n_init = 10
 
